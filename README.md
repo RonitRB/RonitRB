@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-🌐 <a href="https://ronit-bongale.netlify.app" target="_blank"><b>Visit My Portfolio</b></a>
+🌐 <a href="https://ronit-bongale.netlify.app"><b>Visit My Portfolio</b></a>
 </p>
 
 ---
@@ -24,10 +24,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-💡 Explore all projects here → **https://ronit-bongale.netlify.app**
-
----
 
 ### 🔹 AI Assistive System for Visually Impaired  
 - Built OCR + TTS pipeline using OpenCV & YOLOv8  
@@ -57,47 +53,51 @@
 
 ---
 
-## 🌐 Connect With Me
+💡 Explore all projects → https://ronit-bongale.netlify.app  
 
-- 🌍 Portfolio: https://ronit-bongale.netlify.app  
-- 💼 LinkedIn: https://linkedin.com/in/ronit-bongale  
-- 📧 Email: ronitbongale@gmail.com  
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronit-bongale)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://ronitbongale.medium.com/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronitbongale@gmail.com)  
 
 ---
 
 ## 💻 Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black"/>
-<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonitRB&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonitRB&theme=tokyonight" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=RonitRB&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=RonitRB&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RonitRB&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 1st Place – NAIN 2.0 (₹2 Lakhs Govt Funded Project)  
+- 🥇 1st Place – NAIN 2.0 (₹2 Lakhs Government Funded Project)  
 - 🥉 3rd Place – Hackoverflow 2.0  
 - 🎓 Samsung Innovation Campus AI Training (350+ hours)  
+
+---
+
+[![](https://komarev.com/ghpvc/?username=RonitRB&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 

@@ -2,7 +2,7 @@
 <h3 align="center">Backend-Focused Software Engineer | AI & Data Systems | CSE 2026</h3>
 
 <p align="center">
-🚀 Building scalable backend systems & AI-powered solutions  
+🚀 Building scalable backend systems & AI-powered solutions <br>
 💡 Problem Solver | Hackathon Enthusiast | Placement Focused  
 </p>
 

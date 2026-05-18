@@ -53,7 +53,7 @@
 
 ---
 
-💡 Explore all projects → https://ronit-bongale.netlify.app  
+💡 Explore all projects → https://ronit-bongale-portfolio.netlify.app 
 
 ---
 

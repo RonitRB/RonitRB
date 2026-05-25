@@ -25,31 +25,40 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Assistive System for Visually Impaired  
-- Built OCR + TTS pipeline using OpenCV & YOLOv8  
-- Improved detection accuracy by ~25%  
-- Tested across 50+ real-world scenarios  
+### 🔹 SmartDoc — AI Content Generator (Internship Project)
+- Built a production-ready AI content generation platform using MERN stack + LLM APIs  
+- Implemented RAG-based pipeline for contextual response generation  
+- Led a 3-member team, managing architecture, code reviews, and delivery  
+- Designed scalable backend APIs and integrated AI workflows for real-time responses  
 
 ---
 
-### 🔹 Node User API  
-- Built scalable backend with Node.js & MongoDB  
-- Implemented clean architecture + logging system  
-- Designed 5 CRUD endpoints with proper validation  
+### 🔹 Curalink — AI Medical Research Assistant  
+- Built an AI-powered system retrieving 230+ results from PubMed, OpenAlex & ClinicalTrials  
+- Implemented re-ranking pipeline to return top 8–12 relevant insights in <5 seconds  
+- Integrated LLM (Llama 3.3-70B) for structured response generation  
+- Deployed using Vercel + Render + MongoDB Atlas  
+
+---
+
+### 🔹 AI Assistive System for Visually Impaired (NAIN 2.0)  
+- Developed end-to-end pipeline: Object Detection → OCR → Processing → TTS  
+- Improved detection accuracy by ~25% across 50+ real-world scenarios  
+- Secured ₹2L government funding and won 1st place at IIIT Dharwad  
+
+---
+
+### 🔹 Node User API — Backend Project  
+- Built scalable REST API using Node.js, Express, MongoDB, and Docker  
+- Implemented MVC architecture, validation, and error handling  
+- Tested across 10+ scenarios with 0 unhandled failures  
 
 ---
 
 ### 🔹 AI-Enhanced Financial Advisor  
-- Developed APIs for financial data processing  
-- Integrated external APIs for real-time insights  
-- Handled 100+ records with validation & logging  
-
----
-
-### 🔹 Google Stock Price Prediction  
-- Processed 1,000+ stock records for regression-based prediction  
-- Performed data cleaning, feature preparation, and validation  
-- Evaluated model performance and improved prediction stability  
+- Processed 100+ financial records with 3 external API integrations  
+- Reduced inconsistencies by ~40% using optimized data pipelines  
+- Built using Python, Flask, Pandas, NumPy  
 
 ---
 

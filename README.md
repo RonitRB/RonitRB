@@ -26,10 +26,11 @@
 ## 🚀 Featured Projects
 
 ### 🔹 SmartDoc — AI Content Generator (Internship Project)
+- Developed during a 15-week internship at SuprMentr Technologies Pvt. Ltd.
 - Built a production-ready AI content generation platform using MERN stack + LLM APIs  
 - Implemented RAG-based pipeline for contextual response generation  
 - Led a 3-member team, managing architecture, code reviews, and delivery  
-- Designed scalable backend APIs and integrated AI workflows for real-time responses  
+- Designed scalable backend APIs and integrated AI workflows   
 
 ---
 

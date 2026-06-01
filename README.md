@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-🌐 <a href="https://ronit-bongale.netlify.app"><b>Visit My Portfolio</b></a>
+🌐 <a href="https://ronit-bongale.vercel.app/"><b>Visit My Portfolio</b></a>
 </p>
 
 ---
@@ -63,7 +63,7 @@
 
 ---
 
-💡 Explore all projects → https://ronit-bongale.netlify.app 
+💡 Explore all projects → https://ronit-bongale.vercel.app
 
 ---
 
